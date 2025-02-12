@@ -84,19 +84,10 @@ This landing page was developed to help students **explore MBBS opportunities ab
 ---
 
 ## 📩 Contact & Support
-For any queries, feel free to reach out to **University Insights**.
+For any queries, feel free to reach out to **bhargavijaddu06@gmail.com**.
 
 ---
- ✅ Final Steps: Push the README to GitHub
-1️⃣ **Stage and commit the README file**
-
-git add README.md
-git commit -m "Added README file"
-
-2️⃣ Push to GitHub
-
-git push origin main
-
+ 
 
 
 
